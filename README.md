@@ -1,1 +1,3 @@
-# augmonted
+# Augmonted
+
+## The team
